@@ -1,14 +1,12 @@
 # React-Form-Generator
-React Form Generator
+In this project all the main screen coming from an api. The code will apply the form to the main screen if the api data changed.
 
 ## Languages and Technologies Used in this Project
 
-| Language / Technology  | :mag_right:  | % |
+| Language / Technology  | ↔️  | % |
 | :------------ |:---------------:| -----:|
 | React      | :arrow_right: | 90 |
-| Javascript      | :arrow_right:       |   80 |
-| Css | :arrow_right:        |    70 |
-| Semantic UI | :arrow_right:        |    95 |
+| Bootstrap | :arrow_right:        |    80 |
 
 ## Application Images
 
